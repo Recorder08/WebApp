@@ -1,0 +1,15 @@
+.title{
+    border: red 5px solid;
+}
+.title h2{
+    border: orange 5px solid;
+}
+.blue{
+    border: blue 5px solid;
+}
+.purple{
+    border: purple 5px solid;
+}
+body{
+    border: green 5px solid;
+}
